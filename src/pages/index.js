@@ -20,12 +20,14 @@ export default function Home() {
           pages directory:{' '}
         </p>
         <code>src/page/teamMemberName.js</code>
+
+          <div className='grid'>
           
           <a href='/MihaiRadu ' className='card'>
             <h3>Mihai's Personal Page &rarr;</h3>
             <p>Click here to learn more about him</p>
           </a>
-          
+  
         </div>
       </main>
 
