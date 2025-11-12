@@ -10,19 +10,16 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Polyphemus_Moth_(Antheraea_polyphemus).JPG/1024px-Polyphemus_Moth_(Antheraea_polyphemus).JPG'
+            alt='Polyphemus Moth'
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            Hello! My name is Adair Perez Flores, but you can simply refer to me as Adair.
+            I'm currently a freshman at CU Boulder, with Computer Science as my major.
+            However, I am looking to expand my horizons, and potentially make a swap or gain a minor along the way.
+            In highschool, I was a P-Tech student, being dual-enrolled in an AAS in COmputer Information Systems,
+            and spend a summer at an internship with IBM, learning more about AI and skils in consulting.
           </p>
 
           <a className='button' href='/'>
