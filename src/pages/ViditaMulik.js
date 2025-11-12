@@ -12,11 +12,6 @@ export default function examplePage() {
             className='pic'
             src='https://3f2e02b097fb725604aee00dede93f77.cdn.bubble.io/cdn-cgi/image/w=,h=,f=auto,dpr=1,fit=contain/f1756817655598x120266861741725070/indie%20dog.webp'
             alt='Vidita Mulik'
-            
-            <a href='/ViditaMulik ' className='card'>
-            <h3>Vidita's Personal Page &rarr;</h3>
-            <p>Learn more about Vidita</p>
-            </a> 
           />
 
           <p className='description'>
