@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Polyphemus_Moth_(Antheraea_polyphemus).JPG/1024px-Polyphemus_Moth_(Antheraea_polyphemus).JPG
+            src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Polyphemus_Moth_(Antheraea_polyphemus).JPG/1024px-Polyphemus_Moth_(Antheraea_polyphemus).JPG'
             alt='Polyphemus Moth'
           />
 
