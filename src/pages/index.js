@@ -22,9 +22,9 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+          <a href='/AdairPerezFlores ' className='card'>
+            <h3>Adair's Personal Page &rarr;</h3>
+            <p>Click here to learn more about him</p>
           </a>
 
          <div className='grid'>
@@ -33,6 +33,11 @@ export default function Home() {
             <p>Learn more about Vidita</p>
           </a> 
 
+          <a href='/MihaiRadu ' className='card'>
+            <h3>Mihai's Personal Page &rarr;</h3>
+            <p>Click here to learn more about him</p>
+          </a>
+          
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
@@ -41,28 +46,7 @@ export default function Home() {
               Return to the Github for resources on creating your own website!
             </p>
           </a>
-          <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
-            className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
-          </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
-          </a>{' '}
-          <a href='https://tailwindcss.com/' className='card'>
-            <h3>Tailwind css&rarr;</h3>
-            <p>Click here to learn more about tailwind css</p>
-          </a>
-          <a href='https://styled-components.com/' className='card'>
-            <h3>Styled Components&rarr;</h3>
-            <p>Click here to learn more about Styled Components</p>
-          </a>
-          <a href='https://www.netlify.com/' className='card'>
-            <h3>Netlify&rarr;</h3>
-            <p>Click here to learn more about Netlify to host your website</p>
-          </a>
+
         </div>
       </main>
 
