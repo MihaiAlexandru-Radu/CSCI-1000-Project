@@ -17,7 +17,6 @@ export default function Home() {
         <p className='description2'>
           Click on each button to find out more!
         </p>
-        <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
           <a href='/AdairPerezFlores ' className='card'>
