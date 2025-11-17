@@ -6,20 +6,19 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello!</h1>
+            <h1 className='title'>Blair Minnard</h1>
           </div>
           <img
             className='pic'
-            src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Polyphemus_Moth_(Antheraea_polyphemus).JPG/1024px-Polyphemus_Moth_(Antheraea_polyphemus).JPG'
-            alt='Polyphemus Moth'
+            src='https://www.google.com/imgres?q=wallpaper%20biomedical%20engineering&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F9c%2F28%2F9d%2F9c289d3ad186a4ea65f27cff5a1199f0.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F829436456385217936%2F&docid=GyfPaquR8KmOdM&tbnid=wNqRDB-O8eK-uM&vet=12ahUKEwj9i6y8_veQAxUkDzQIHRXEFrkQM3oECB0QAA..i&w=736&h=1308&hcb=2&itg=1&ved=2ahUKEwj9i6y8_veQAxUkDzQIHRXEFrkQM3oECB0QAA'
+            alt='biomedcal engineering'
           />
 
           <p className='description'>
-            Hello! My name is Adair Perez Flores, but you can simply refer to me as Adair.
-            I'm currently a freshman at CU Boulder, with Computer Science as my major.
-            However, I am looking to expand my horizons, and potentially make a swap or gain a minor along the way.
-            In highschool, I was a P-Tech student, being dual-enrolled in an AAS in COmputer Information Systems,
-            and spend a summer at an internship with IBM, learning more about AI and skils in consulting.
+           Hello! My name is Blair, and I’m currently a sophomore majoring in Biomedical Engineering. 
+                I’m really interested in how biology and technology connect, 
+                and I’ve gotten to explore that through my work in the NEU Lab. 
+                Being in the lab has helped me build hands-on experience and has inspired me to keep pushing deeper into research and engineering.
           </p>
 
           <a className='button' href='/'>
