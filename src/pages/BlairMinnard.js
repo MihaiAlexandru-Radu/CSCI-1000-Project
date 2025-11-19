@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://www.google.com/imgres?q=wallpaper%20biomedical%20engineering&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F9c%2F28%2F9d%2F9c289d3ad186a4ea65f27cff5a1199f0.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F829436456385217936%2F&docid=GyfPaquR8KmOdM&tbnid=wNqRDB-O8eK-uM&vet=12ahUKEwj9i6y8_veQAxUkDzQIHRXEFrkQM3oECB0QAA..i&w=736&h=1308&hcb=2&itg=1&ved=2ahUKEwj9i6y8_veQAxUkDzQIHRXEFrkQM3oECB0QAA'
+            src='https://i.pinimg.com/736x/9c/28/9d/9c289d3ad186a4ea65f27cff5a1199f0.jpg'
             alt='biomedcal engineering'
           />
 
